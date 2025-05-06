@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahbaaz Khan</h1>
-<h3 align="center">A Computer Science student specializing in Artificial Intelligence and Machine Learning, with a strong foundation in Python and C++ ,Ai(fundamentals),DSA,ML.</h3>
+<h3 align="center">A Computer Science student specializing in Artificial Intelligence and Machine Learning,"with a strong foundation in Python, C++, AI fundamentals, Data Structures and Algorithms (DSA), and Machine Learning (ML)."</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
