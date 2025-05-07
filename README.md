@@ -15,7 +15,7 @@
 
 - 📧 **shahbaazkhan6300@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 📧  shahbaazkhan6300@gmail.com
 <p align="left">
 </p>
 
