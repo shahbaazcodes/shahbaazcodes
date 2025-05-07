@@ -11,7 +11,7 @@
 
 - ✍️ Yet to start blog [Planning blog: “AI for Beginners” — Medium/Hashnode (coming soon)](Planning blog: “AI for Beginners” — Medium/Hashnode (coming soon))
 
-- 🐍 Python, Machine Learning **Skills: Python, Css,Pandas,Ai,ML,DSA(working**
+- 🐍 Python, Machine Learning **Skills: Python, Css,Pandas,Ai,ML,DSA(working)**
 
 - 📧 **shahbaazkhan6300@gmail.com**
 
