@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student specializing in Artificial Intelligence and Machine Learning,"with a strong foundation in Python, C++, AI fundamentals, Data Structures and Algorithms (DSA), and Machine Learning (ML)."</h3>
 </td>
 <td width="30%" align="right">
-   <img src="https://github.com/user-attachments/assets/619f3509-87b9-4956-92c2-e676fb24f921" with="240">
+   <img src="https://github.com/user-attachments/assets/619f3509-87b9-4956-92c2-e676fb24f921" with="200">
 </td>
   </tr>
 </table>
