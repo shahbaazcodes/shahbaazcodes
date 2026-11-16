@@ -10,7 +10,7 @@
 
 - 🎓 Studying **B.Tech in CSE (AI & ML)**
 
-- 📘 Deep Learning. **Learned:Python,Css.**
+- 📘 Deep Learning. **Learned:Python,Java ,Javascript, Numpy,Pandas,LLM,RAG,Scikit-learn,computervision,Css.**
 
 - 🧑‍💻 I’m looking to **Collaborate on ML Projects / Open Source**
 
